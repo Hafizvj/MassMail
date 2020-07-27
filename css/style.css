@@ -279,7 +279,7 @@ a:hover, a:focus, a:active {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 .body-padding {
@@ -558,7 +558,7 @@ a:hover, a:focus, a:active {
 }
 
 .fullscreen-content.dark-bg {
-  background: #b29700;
+  background: #ccaf00;
   color: #fff;
 }
 
@@ -1274,7 +1274,7 @@ label {
 }
 
 [data-aos=slide-effect-2].anim-dark:after {
-  background-color: #b29800;
+  background-color: #ccaf00;
 }
 
 [data-aos=slide-effect-2].anim-light:after {
